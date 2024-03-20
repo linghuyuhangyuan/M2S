@@ -4,6 +4,10 @@ Lintao Zhang, Xiangcheng Du, LeoWu TomyEnrique, Yiqun Wang, Yingbin Zheng, Cheng
 
 Fudan University, Videt Technology
 
+<div style="text-align:center">
+    <img src="assets/fig.png" alt="image" />
+</div>
+
 ---
 
 
