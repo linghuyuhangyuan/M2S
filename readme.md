@@ -82,6 +82,20 @@ Download pretrained model from [Google Drive](https://drive.google.com/drive/fol
 **Note:** For special mask types: Alternating Lines and Super-Resolve 2×, please ensure to set `--special_mask True` in the `run.sh` script.
 
 
+## Citation
+
+If you are interested in this work, please consider citing:
+
+```
+@inproceedings{zhang2024minutes,
+  title={Minutes to Seconds: Speeded-up DDPM-based Image Inpainting with Coarse-to-Fine Sampling},
+  author={Zhang, Lintao and Du, Xiangcheng and TomyEnrique, LeoWu and Wang, Yiqun and Zheng, Yingbin and Jin, Cheng},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
+}
+```
 
 ## Acknowledgment
 
