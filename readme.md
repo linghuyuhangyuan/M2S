@@ -105,4 +105,4 @@ This code is based on the [RePaint](https://github.com/andreas128/RePaint),  [P2
 
 ## Contact
 
-If you have any question or suggestion, please contact ltzhang21@m.fudan.edu.cn.
+If you have any question or suggestion, please contact 25213050064@m.fudan.edu.cn.
